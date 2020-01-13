@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Feelings</string>
+    <string name="feeling_remark">Remark</string>
+    <string name="feeling_date">Date</string>
+    <string name="add_Remark">Remark</string>
+    <string name="btn_Add">Save</string>
+</resources>
